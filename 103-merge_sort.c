@@ -1,7 +1,6 @@
 /*
  * File: 103-merge_sort.c
- * Auth: Brennan D Baraban
- */
+*/
 
 #include "sort.h"
 

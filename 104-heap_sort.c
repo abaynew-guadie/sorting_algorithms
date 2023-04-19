@@ -1,7 +1,6 @@
 /*
  * File: 104-heap_sort.c
- * Auth: Brennan D Baraban
- */
+*/
 
 #include "sort.h"
 
