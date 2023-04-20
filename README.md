@@ -1,5 +1,5 @@
 0x1B.c  Sorting algorithms & Big O
-team project
+team project april-19-2023
 author name
-Abaynew Guadie N
+Abaynew Guadie and 
 Surafel Fikadu
