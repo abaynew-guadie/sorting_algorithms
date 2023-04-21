@@ -1,1 +1,1 @@
-Bitonic sort
+Quick Sort - Hoare Partition scheme
