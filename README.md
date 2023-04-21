@@ -1,1 +1,1 @@
-Selection
+Quick sort
