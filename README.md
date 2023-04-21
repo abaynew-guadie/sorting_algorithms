@@ -1,1 +1,1 @@
-Quick sort
+Shell sort - Knuth Sequence
