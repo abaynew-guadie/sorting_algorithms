@@ -1,1 +1,1 @@
-Merge sort
+Heap sort
